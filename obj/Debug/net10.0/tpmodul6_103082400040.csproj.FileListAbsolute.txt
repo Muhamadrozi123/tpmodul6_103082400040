@@ -1,0 +1,15 @@
+C:\SEMESTER 4\KPL\tpmodul_103082400040\bin\Debug\net10.0\tpmodul6_103082400040.exe
+C:\SEMESTER 4\KPL\tpmodul_103082400040\bin\Debug\net10.0\tpmodul6_103082400040.deps.json
+C:\SEMESTER 4\KPL\tpmodul_103082400040\bin\Debug\net10.0\tpmodul6_103082400040.runtimeconfig.json
+C:\SEMESTER 4\KPL\tpmodul_103082400040\bin\Debug\net10.0\tpmodul6_103082400040.dll
+C:\SEMESTER 4\KPL\tpmodul_103082400040\bin\Debug\net10.0\tpmodul6_103082400040.pdb
+C:\SEMESTER 4\KPL\tpmodul_103082400040\obj\Debug\net10.0\tpmodul6_103082400040.GeneratedMSBuildEditorConfig.editorconfig
+C:\SEMESTER 4\KPL\tpmodul_103082400040\obj\Debug\net10.0\tpmodul6_103082400040.AssemblyInfoInputs.cache
+C:\SEMESTER 4\KPL\tpmodul_103082400040\obj\Debug\net10.0\tpmodul6_103082400040.AssemblyInfo.cs
+C:\SEMESTER 4\KPL\tpmodul_103082400040\obj\Debug\net10.0\tpmodul6_103082400040.csproj.CoreCompileInputs.cache
+C:\SEMESTER 4\KPL\tpmodul_103082400040\obj\Debug\net10.0\tpmodul6_103082400040.sourcelink.json
+C:\SEMESTER 4\KPL\tpmodul_103082400040\obj\Debug\net10.0\tpmodul6_103082400040.dll
+C:\SEMESTER 4\KPL\tpmodul_103082400040\obj\Debug\net10.0\refint\tpmodul6_103082400040.dll
+C:\SEMESTER 4\KPL\tpmodul_103082400040\obj\Debug\net10.0\tpmodul6_103082400040.pdb
+C:\SEMESTER 4\KPL\tpmodul_103082400040\obj\Debug\net10.0\tpmodul6_103082400040.genruntimeconfig.cache
+C:\SEMESTER 4\KPL\tpmodul_103082400040\obj\Debug\net10.0\ref\tpmodul6_103082400040.dll
